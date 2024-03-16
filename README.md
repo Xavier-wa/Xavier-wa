@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<
+
 🔭 I’m currently working on ...</br>
 🌱 I’m currently learning ...</br>
 👯 I’m looking to collaborate on ...</br>
@@ -9,4 +9,3 @@
 📫 How to reach me: ...</br>
 😄 Pronouns: ...</br>
 ⚡ Fun fact: ...</br>
->
