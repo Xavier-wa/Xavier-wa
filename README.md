@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">About FanOne.</h3>
+<div style="display:flex" height="auto" width="auto">
+    <div>
+        <div style="flex:1">
+            Hello！茫茫人海, 感谢相遇 ✨
+            <img align="right" width="auto" height="170" src= "https://github-readme-stats.vercel.app/api?username=Xavier-wa&theme=nightowl&show_icons=true">
+        </div>
+        </br>
+    </div>
+    <div style="flex:1">
+        <p>
+          <img align="left" src="./FanOne.jpg" width="100" style="max-width: 100%;">
+        </p>
+    </div>
+
+</div>
