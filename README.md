@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <
-Here are some ideas to get you started:
 🔭 I’m currently working on ...</br>
 🌱 I’m currently learning ...</br>
 👯 I’m looking to collaborate on ...</br>
