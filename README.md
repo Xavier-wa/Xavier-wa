@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--**Xavier-wa/Xavier-wa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<
 Here are some ideas to get you started:
 🔭 I’m currently working on ...</br>
 🌱 I’m currently learning ...</br>
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 📫 How to reach me: ...</br>
 😄 Pronouns: ...</br>
 ⚡ Fun fact: ...</br>
--->
+>
