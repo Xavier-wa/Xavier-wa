@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Xavier-wa👋
 
 
-🌱 I’m currently learning ...</br>
+🌱 I’m currently learning coding</br>
